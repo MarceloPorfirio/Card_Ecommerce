@@ -1,4 +1,3 @@
 # Card_Ecommerce
 E-commerce card using the powerful and innovative Flet framework.
 
-<img>https://www.google.com/search?q=gato&sca_esv=4f958c6067a3df62&hl=pt-BR&authuser=4&sxsrf=ADLYWIIE5YY7okhjje2Kgqy94lfvfitF8A:1725293247270&source=hp&biw=1366&bih=607&ei=v-LVZvyrDsrZ5OUP-4aIiAM&iflsig=AL9hbdgAAAAAZtXwz_J2vFY8iRRK9EoidYWW_yu9PW1x&ved=0ahUKEwi8h4qZ0qSIAxXKLLkGHXsDAjEQ4dUDCBA&uact=5&oq=gato&gs_lp=EgNpbWciBGdhdG8yCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDSPoUUJkLWNYTcAN4AJABAJgBlgKgAcgHqgEFMC4zLjK4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ5gCBaAC8geoAgDCAgsQABiABBixAxiDAcICDhAAGIAEGLEDGIMBGIoFmAMDkgcFMC4zLjKgB4sY&sclient=img&udm=2#vhid=QyZ3r2FWCYxdUM&vssid=mosaic</img>
